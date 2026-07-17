@@ -1,0 +1,192 @@
+<!doctype html>
+<html class="dark">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link
+            rel="stylesheet"
+            href="https://cdn.datatables.net/2.3.4/css/dataTables.dataTables.min.css"
+        />
+        <link rel="icon" href="data:," />
+
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script src="https://cdn.datatables.net/2.3.4/js/dataTables.min.js"></script>
+        <script src="https://cdn.datatables.net/plug-ins/2.1.8/filtering/type-based/accent-neutralise.js"></script>
+
+        <style>
+            .dt-layout-row {
+                display: flex;
+            }
+            .dt-layout-cell.dt-layout-end {
+                flex: 1;
+            }
+            .dt-search {
+                display: flex;
+                align-items: center;
+                width: 100%;
+            }
+            .dt-search input {
+                text-align: center;
+                flex: 1;
+                min-width: 0;
+                height: 42px;
+            }
+            #statusline {
+                text-align: center;
+                font-size: xx-small;
+                font-style: italic;
+                color: #aaa;
+            }
+            body {
+                background: #1b1b1b;
+                color: #ccc;
+            }
+            select {
+                background: #1b1b1b;
+                color: #ccc;
+                height: 32px;
+                width: 100%;
+            }
+            table {
+                width: 100%;
+            }
+        </style>
+        <title>FZ 26 - Unofficial programme mirror</title>
+    </head>
+    <body>
+        <div id="statusline" role="status">Make sure the required JavaScript can run.</div>
+        <table id="example" class="display">
+            <thead>
+                <tr>
+                    <th aria-label="Weekday"></th>
+                    <th aria-label="When"></th>
+                    <th aria-label="Where"></th>
+                    <th aria-label="What"></th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <script>
+            const statusLine = document.querySelector("#statusline");
+
+            function initComplete() {
+                function buildBasicSelector(column) {
+                    const select = document.createElement("select");
+
+                    select.name = `filter-selector-${column.index()}`;
+                    select.id = select.name;
+                    select.setAttribute(
+                        "aria-label",
+                        `Filter ${column.header().textContent}`,
+                    );
+
+                    select.add(new Option(""));
+                    column
+                        .data()
+                        .unique()
+                        .sort()
+                        .each(function (d) {
+                            select.add(new Option(d));
+                        });
+
+                    select.addEventListener("change", () =>
+                        column.search(select.value, { exact: false }).draw(),
+                    );
+
+                    return select;
+                }
+
+                function buildTimeRangeSelector(column) {
+                    const dayStart = 6;
+
+                    const select = document.createElement("select");
+                    select.name = "timerange-select";
+                    select.id = select.name;
+                    select.setAttribute("aria-label", "Filter by time");
+
+                    function newTimeRangeOption(ix) {
+                        const start = (ix + dayStart) % 24;
+                        return new Option(
+                            `${String(start).padStart(2, "0")}:00-${String(dayStart).padStart(2, "0")}:00`,
+                            ix + dayStart,
+                        );
+                    }
+                    function shiftMod(x) {
+                        return (x + 24 - dayStart) % 24;
+                    }
+                    function shiftModGEq(a, b) {
+                        return shiftMod(a) >= shiftMod(b);
+                    }
+                    function timeRangeStartsNotSooner(s) {
+                        const selectedStart = Number(select.value);
+                        const timeRangeStart = Number(s.slice(0, 2));
+
+                        return shiftModGEq(timeRangeStart, selectedStart);
+                    }
+
+                    for (let ix = 0; ix < 24; ix++) {
+                        select.add(newTimeRangeOption(ix));
+                    }
+
+                    select.addEventListener("change", () =>
+                        column.search(timeRangeStartsNotSooner).draw(),
+                    );
+
+                    return select;
+                }
+
+                const api = this.api();
+
+                [0, 2, 3].forEach((ix) => {
+                    const col = api.column(ix);
+                    col.header().prepend(buildBasicSelector(col));
+                });
+
+                const timeRangeColumn = api.column(1);
+                timeRangeColumn
+                    .header()
+                    .prepend(buildTimeRangeSelector(timeRangeColumn));
+
+                document.querySelector("#dt-search-0")?.focus();
+            }
+
+            function buildDynamicPage(result) {
+                new DataTable("#example", {
+                    data: result.output ?? [],
+                    columns: [
+                        { data: { _: "day._", sort: "day.sort" } },
+                        { data: { _: "when._", sort: "when.sort" } },
+                        { data: "stage" },
+                        { data: "artist" },
+                    ],
+                    language: { search: "?: ", searchPlaceholder: "..." },
+                    paging: false,
+                    info: true,
+                    orderMulti: true,
+                    order: [
+                        [0, "asc"],
+                        [1, "asc"],
+                        [2, "asc"],
+                        [3, "asc"],
+                    ],
+                    initComplete,
+                });
+                statusLine.textContent = `Programme data cached at ${result.time}.`;
+            }
+
+            fetch("./result.json")
+                .then((r) => r.json())
+                .then(buildDynamicPage)
+                .catch((err) => {
+                    statusLine.textContent = "Error loading fetched data. Make sure the required JavaScript can run.";
+                    console.error(err);
+                });
+
+            document.querySelector("#example tbody").addEventListener("click", (e) => {
+                const row = e.target.closest("tr");
+                if (row) row.classList.toggle("selected");
+            });
+        </script>
+    </body>
+</html>
