@@ -1,5 +1,3054 @@
 {
   "success": true,
   "time": "2026-07-17T19:20:02+02:00",
-  "output": []
+  "output": [
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Knives",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-29 16:00:00",
+        "_": "16:00-16:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Oaken x BORU",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-29 17:20:00",
+        "_": "17:20-18:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Wolves In the Throne Room",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-29 19:10:00",
+        "_": "19:10-20:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Alcest",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-29 21:20:00",
+        "_": "21:20-22:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "This Will Destroy You",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-30 00:00:00",
+        "_": "00:00-01:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Zérus",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-29 15:30:00",
+        "_": "15:30-16:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Synthetic Destiny",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-29 16:40:00",
+        "_": "16:40-17:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Sóvárgás",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-29 17:50:00",
+        "_": "17:50-18:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Utolsó Hullám",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-29 19:00:00",
+        "_": "19:00-19:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Fetish Section",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-29 20:20:00",
+        "_": "20:20-21:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Soviet Monday",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-29 21:40:00",
+        "_": "21:40-22:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Türböwitch",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-29 23:10:00",
+        "_": "23:10-00:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "VÉR",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 00:50:00",
+        "_": "00:50-01:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Crow Black Dream",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-29 18:20:00",
+        "_": "18:20-19:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Lucy Dreams",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-29 20:20:00",
+        "_": "20:20-21:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Berlin Manson",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-29 22:50:00",
+        "_": "22:50-23:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Black Veil",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-30 01:10:00",
+        "_": "01:10-02:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "LivingTotem",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 00:30:00",
+        "_": "00:30-01:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Realecta",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 01:30:00",
+        "_": "01:30-02:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "vonal_64",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 02:30:00",
+        "_": "02:30-04:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "asvany",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 04:00:00",
+        "_": "04:00-05:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "N° Space Showcase",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-29 20:00:00",
+        "_": "20:00-23:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "HáttérZaj Házibuli",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 00:00:00",
+        "_": "00:00-02:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "minek",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 02:00:00",
+        "_": "02:00-04:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "3D Nyomtató Műhely",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Zajlik",
+      "stage": "ZAJlik",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "No History No Repent - Papp Virág festőművész kiállítása",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Scintillae - Lélekszikrák",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Magyar boszorkánykönyv kiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "darkwood ",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Nem is olyan régen, nem is olyan messze… Fotókiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "ROZZSDA FOTÓSOROZAT MEGNYITÓ",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-07-29 19:30:00",
+        "_": "19:30-20:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "ROZZSDA FOTÓSOROZAT ",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-07-29 20:00:00",
+        "_": "20:00-07:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "MECHANIDS",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Grandiózus Jómadarak",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "Wed"
+      },
+      "artist": "Állatvédelmi Tanösvény a Herosz Budapesti Állatotthonnal",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-07-29 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Ponte del Diavolo",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-30 16:00:00",
+        "_": "16:00-16:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Lone Assembly",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-30 17:20:00",
+        "_": "17:20-18:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Immolation",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-30 19:10:00",
+        "_": "19:10-20:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Front Line Assembly",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-30 21:10:00",
+        "_": "21:10-22:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Black Nail Cabaret",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-31 00:00:00",
+        "_": "00:00-01:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Imago Mundi",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 15:30:00",
+        "_": "15:30-16:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Hűvös",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 16:40:00",
+        "_": "16:40-17:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Cryptic Remains",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 17:50:00",
+        "_": "17:50-18:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Diabolus in Musica",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 19:00:00",
+        "_": "19:00-19:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Teeth Marks",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 20:20:00",
+        "_": "20:20-21:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Hecatoncheir",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 21:40:00",
+        "_": "21:40-22:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Coltaine",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-30 23:10:00",
+        "_": "23:10-00:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "VLKN",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 00:40:00",
+        "_": "00:40-01:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Linnea Hjertén",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-30 18:20:00",
+        "_": "18:20-19:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Transkepler",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-30 20:20:00",
+        "_": "20:20-21:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Potochkine",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-30 22:50:00",
+        "_": "22:50-23:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Óperentzia",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-31 01:10:00",
+        "_": "01:10-02:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Napindító Jóga",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-11:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Waiting Room",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 19:00:00",
+        "_": "19:00-19:45"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Cabrio Cat",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 20:15:00",
+        "_": "20:15-21:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Fictional Heat",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 21:30:00",
+        "_": "21:30-22:15"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "IAMYANK",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-30 22:45:00",
+        "_": "22:45-00:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "KAIRO",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 00:10:00",
+        "_": "00:10-01:25"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Korcs",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 01:30:00",
+        "_": "01:30-03:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "FLOPPABOY",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 03:00:00",
+        "_": "03:00-04:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Metálkonferencia Kitelepül - 1. Nap",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-30 11:30:00",
+        "_": "11:30-13:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "KacsaTALK - MusicPress-beszélgetések a Fekete Zajon",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-30 13:00:00",
+        "_": "13:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Dalok Tunduriról - mesekoncert",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-30 14:20:00",
+        "_": "14:20-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Dominik Prok",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-30 15:00:00",
+        "_": "15:00-15:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Helka",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-30 16:20:00",
+        "_": "16:20-17:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Franny",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-30 17:40:00",
+        "_": "17:40-18:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": " Útkereső szerepjáték – Food Not Bombs  Budapest",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Civilek helyzete - Zaj vs Bike Maffia",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 12:00:00",
+        "_": "12:00-13:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "BBM Kocsmakvíz",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 13:00:00",
+        "_": "13:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Bagázs scrunchie-varró workshop",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 14:00:00",
+        "_": "14:00-17:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Terrorismo",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 00:00:00",
+        "_": "00:00-01:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "ipariSzakadárok: kraak + u_lab",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 01:30:00",
+        "_": "01:30-03:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Deadline Industries",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 03:30:00",
+        "_": "03:30-05:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Bringás ékszerkészítő workshop",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 12:00:00",
+        "_": "12:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Bike Maffia Stage Standok - 1. Nap",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-17:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "BLACKE NOIZZ WORKSHOP - Változtassuk fantasy szerepjátékká a Fekete Zaj világát!",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-30 12:00:00",
+        "_": "12:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Zaj Gyerek Könyvklub",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-30 14:00:00",
+        "_": "14:00-14:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Zaj Könyvklub",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-30 14:30:00",
+        "_": "14:30-15:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Babicska Programok: Makramé Workshop",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-30 15:30:00",
+        "_": "15:30-18:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Malter Filmfeszt x Fekete Zaj – alternatív rövidfilmek és alkotói beszélgetések",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Fekete Játszóház ",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-30 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Barbarians of Lemuria RPG",
+      "stage": "Konferenciaterm",
+      "when": {
+        "sort": "2026-07-30 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "3D Nyomtató Műhely",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Háttérzaj irodalmi kör és ElizaBAT Művészkör workshop ",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Jelképtár - közös beszélgetés képzőművészetről",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-07-30 14:00:00",
+        "_": "14:00-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "LINÓMETSZŐ WORKSHOP",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-07-30 15:00:00",
+        "_": "15:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Darkness Fitness",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-11:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré rajzolás",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-30 11:00:00",
+        "_": "11:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Fekete Karnevál - Goth fairy make up és Corpse Paint",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-30 12:00:00",
+        "_": "12:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré rajzolás",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-30 14:00:00",
+        "_": "14:00-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "LUJZANA upcycled hímző workshop",
+      "stage": "Kajasor - Food",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-13:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "DALCSERÉS TÁMADÁS",
+      "stage": "Kiskacsa",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Zaj Futás",
+      "stage": "ERDŐ",
+      "when": {
+        "sort": "2026-07-30 10:00:00",
+        "_": "10:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Szent András sörkóstoló ",
+      "stage": "Borospince",
+      "when": {
+        "sort": "2026-07-30 16:00:00",
+        "_": "16:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "ZajMasszázs",
+      "stage": "Hotel",
+      "when": {
+        "sort": "2026-07-30 11:30:00",
+        "_": "11:30-17:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "ChariTixa",
+      "stage": "Információs pont - Information",
+      "when": {
+        "sort": "2026-07-30 16:00:00",
+        "_": "16:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Zajlik",
+      "stage": "ZAJlik",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "No History No Repent - Papp Virág festőművész kiállítása",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Scintillae - Lélekszikrák",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Magyar boszorkánykönyv kiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "darkwood ",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré Kiállítás ",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Nem is olyan régen, nem is olyan messze… Fotókiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "ROZZSDA FOTÓSOROZAT ",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "MECHANIDS",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Grandiózus Jómadarak",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "Thu"
+      },
+      "artist": "Állatvédelmi Tanösvény a Herosz Budapesti Állatotthonnal",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-07-30 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Entrópia Architektúra",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-31 16:00:00",
+        "_": "16:00-17:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Battlesnake",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-31 17:30:00",
+        "_": "17:30-18:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Vágtázó Halottkémek",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-31 19:10:00",
+        "_": "19:10-20:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Eivør",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-07-31 21:20:00",
+        "_": "21:20-22:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Sear Bliss",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-08-01 00:00:00",
+        "_": "00:00-01:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "P.F.A.",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 15:30:00",
+        "_": "15:30-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Eclipse of the Sun",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 16:30:00",
+        "_": "16:30-17:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Angertea",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 17:40:00",
+        "_": "17:40-18:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Darkfall",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 19:00:00",
+        "_": "19:00-19:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Agregator",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 20:20:00",
+        "_": "20:20-21:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Kinotronik",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 21:40:00",
+        "_": "21:40-22:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Oh Hiroshima",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-07-31 23:00:00",
+        "_": "23:00-00:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "marionette ID",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 00:30:00",
+        "_": "00:30-01:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Celina",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-31 18:20:00",
+        "_": "18:20-19:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "N8NOFACE",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-31 20:20:00",
+        "_": "20:20-21:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Varkocs",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-07-31 22:50:00",
+        "_": "22:50-23:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Pixelplants",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-08-01 01:10:00",
+        "_": "01:10-02:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Napindító Jóga",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 10:00:00",
+        "_": "10:00-11:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "rome is not a town",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 19:00:00",
+        "_": "19:00-19:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "The Devil’s Trade",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 20:10:00",
+        "_": "20:10-21:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Five The Hierophant",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 21:40:00",
+        "_": "21:40-22:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Kæry Ann",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-07-31 23:10:00",
+        "_": "23:10-00:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Mt Saint Michel",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 00:30:00",
+        "_": "00:30-01:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "HEATDEATH1992",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 01:30:00",
+        "_": "01:30-02:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "SAVAGE",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 02:30:00",
+        "_": "02:30-04:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "aerioe",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 04:00:00",
+        "_": "04:00-05:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Metálkonferencia Kitelepül - 2. Nap",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-31 11:30:00",
+        "_": "11:30-13:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "KacsaTALK - MusicPress-beszélgetések a Fekete Zajon",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-31 13:00:00",
+        "_": "13:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Danny és Béla",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-31 15:30:00",
+        "_": "15:30-16:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Fandyr",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-31 16:50:00",
+        "_": "16:50-17:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Coltaine (acoustic set)",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-07-31 18:00:00",
+        "_": "18:00-18:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Állatbarátkozás vol2.",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 10:00:00",
+        "_": "10:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Kerekasztal beszélgetés az Interszekcionális aktivizmusról",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 12:00:00",
+        "_": "12:00-13:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Szemét helyett meleg ételt – Food Not Bombs Budapest x Reggelizz a stábbal ételkészítés ",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 13:30:00",
+        "_": "13:30-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Antidolor",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 00:00:00",
+        "_": "00:00-02:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "SenkWaves",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 02:00:00",
+        "_": "02:00-04:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Bringás ékszerkészítő workshop",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 13:30:00",
+        "_": "13:30-15:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Bike Maffia Stage Standok - 2. Nap",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-07-31 13:30:00",
+        "_": "13:30-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Babicska Programok: Dixit kártya rajzolás és játék",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-31 10:00:00",
+        "_": "10:00-12:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Háttérzaj irodalmi kör felolvasás",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-31 12:30:00",
+        "_": "12:30-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Zaj Gyerek Könyvklub",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-31 14:00:00",
+        "_": "14:00-14:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Zaj Könyvklub",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-31 14:30:00",
+        "_": "14:30-15:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "music 360: A lemezek mögött állók - Butik label és disztró 2026-ban ",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-07-31 15:30:00",
+        "_": "15:30-16:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Malter Filmfeszt x Fekete Zaj – alternatív rövidfilmek és alkotói beszélgetések",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-31 10:00:00",
+        "_": "10:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Fekete Játszóház ",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-31 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Fekete Játszóház: Holtak Tele társasbemutató",
+      "stage": "Konferenciaterm",
+      "when": {
+        "sort": "2026-07-31 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "3D Nyomtató Műhely",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Zajtetkó X Thisshit",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-07-31 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "HuruHuru tollas fülbevaló / hajdísz workshop",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-07-31 09:00:00",
+        "_": "09:00-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Fesztivál Kísér(t)ő Workshop",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-07-31 15:00:00",
+        "_": "15:00-19:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré rajzolás",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-31 11:00:00",
+        "_": "11:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Fekete Karnevál - Goth fairy make up és Corpse Paint",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-31 12:00:00",
+        "_": "12:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré rajzolás",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-31 14:00:00",
+        "_": "14:00-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Játszóház Projekt",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-07-31 15:00:00",
+        "_": "15:00-19:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Kösd le magad!",
+      "stage": "Kajasor - Food",
+      "when": {
+        "sort": "2026-07-31 10:00:00",
+        "_": "10:00-13:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "KÖZBELÉPŐ projekt",
+      "stage": "Kiskacsa",
+      "when": {
+        "sort": "2026-07-31 11:00:00",
+        "_": "11:00-12:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Pátkai Rozina - Kreativitási gyakorlatok",
+      "stage": "Kiskacsa",
+      "when": {
+        "sort": "2026-07-31 12:30:00",
+        "_": "12:30-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Zaj Futás",
+      "stage": "ERDŐ",
+      "when": {
+        "sort": "2026-07-31 10:00:00",
+        "_": "10:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Major Levente borbemutató",
+      "stage": "Borospince",
+      "when": {
+        "sort": "2026-07-31 16:00:00",
+        "_": "16:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "ZajMasszázs",
+      "stage": "Hotel",
+      "when": {
+        "sort": "2026-07-31 11:30:00",
+        "_": "11:30-17:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "ChariTixa",
+      "stage": "Információs pont - Information",
+      "when": {
+        "sort": "2026-07-31 16:00:00",
+        "_": "16:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Zajlik",
+      "stage": "ZAJlik",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "No History No Repent - Papp Virág festőművész kiállítása",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Scintillae - Lélekszikrák",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Magyar boszorkánykönyv kiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "darkwood ",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré Kiállítás ",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Nem is olyan régen, nem is olyan messze… Fotókiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "ROZZSDA FOTÓSOROZAT ",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "MECHANIDS",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Grandiózus Jómadarak",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "Fri"
+      },
+      "artist": "Állatvédelmi Tanösvény a Herosz Budapesti Állatotthonnal",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-07-31 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Lesoir",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-08-01 16:00:00",
+        "_": "16:00-16:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Novembers Doom",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-08-01 17:20:00",
+        "_": "17:20-18:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Agent Fresco",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-08-01 19:20:00",
+        "_": "19:20-20:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Green Carnation",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-08-01 21:30:00",
+        "_": "21:30-22:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Crippling Alcoholism",
+      "stage": "FANYŰVŐ",
+      "when": {
+        "sort": "2026-08-02 00:00:00",
+        "_": "00:00-01:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Csalogány",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 15:30:00",
+        "_": "15:30-16:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Tingyela Dóri",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 16:40:00",
+        "_": "16:40-17:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Jules War",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 17:50:00",
+        "_": "17:50-18:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Psycho Mutants",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 19:00:00",
+        "_": "19:00-19:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Mayberian Sanskülotts",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 20:20:00",
+        "_": "20:20-21:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Whispers in the Shadow",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 21:40:00",
+        "_": "21:40-22:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Liturgy",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-01 23:10:00",
+        "_": "23:10-00:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Pornography",
+      "stage": "OSZTÁLYKIRÁNDULÁS",
+      "when": {
+        "sort": "2026-08-02 00:40:00",
+        "_": "00:40-01:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Hang Linton",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-08-01 18:20:00",
+        "_": "18:20-19:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Sydney Valette",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-08-01 20:30:00",
+        "_": "20:30-21:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "fllozz",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-08-01 23:00:00",
+        "_": "23:00-23:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Sadistik",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-08-02 01:10:00",
+        "_": "01:10-02:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Lobotomia-Collective CLARITY 7.0",
+      "stage": "DELTA",
+      "when": {
+        "sort": "2026-08-02 02:30:00",
+        "_": "02:30-03:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Napindító Jóga",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 10:00:00",
+        "_": "10:00-11:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Ficture",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 18:00:00",
+        "_": "18:00-18:40"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Immortal Onion",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 19:20:00",
+        "_": "19:20-20:10"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "csicskakoporsó",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 20:40:00",
+        "_": "20:40-21:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "MACHUKHA",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-01 22:00:00",
+        "_": "22:00-23:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "capsule boy",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-02 00:30:00",
+        "_": "00:30-01:20"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "ZEL.ζ",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-02 01:30:00",
+        "_": "01:30-03:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "SUTA",
+      "stage": "NEM KILÁTÓ SZÍNPAD",
+      "when": {
+        "sort": "2026-08-02 03:00:00",
+        "_": "03:00-04:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Metálkonferencia Kitelepül - 3. Nap: Interdiszciplináris Metálkerekasztal",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-08-01 11:30:00",
+        "_": "11:30-13:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "KacsaTALK - MusicPress-beszélgetések a Fekete Zajon",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-08-01 13:00:00",
+        "_": "13:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "A SÖTÉTSÉG SZÍNEI - Mese-est lelkünk fekete oldaláról ",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Reni & Boka",
+      "stage": "KACSATÓNIA",
+      "when": {
+        "sort": "2026-08-01 16:30:00",
+        "_": "16:30-17:50"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Reggelizz a stábbal ",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 10:00:00",
+        "_": "10:00-11:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "BBM Kocsmakvíz",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 11:00:00",
+        "_": "11:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "A Jóllét Művészete - Freementál program önismereti kártyajátéka ",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 12:00:00",
+        "_": "12:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Autista Élő Könyvtár – Ismerd meg spektrumot belülről!",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "NEONDERVÖLGYI",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-02 00:00:00",
+        "_": "00:00-02:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Bike Maffia DJ Set",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-02 02:00:00",
+        "_": "02:00-04:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Bringás ékszerkészítő workshop",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Bike Maffia Stage Standok - 3. Nap",
+      "stage": "Bike Maffia Stage",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Babicska Programok: Abisszális Zóna",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-08-01 09:00:00",
+        "_": "09:00-11:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Babicska Programok: Dixit kártya rajzolás és játék",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-08-01 11:00:00",
+        "_": "11:00-13:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zúgó idő tárlat és más titokzatok – könyvbemutató",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-08-01 13:00:00",
+        "_": "13:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zaj Gyerek Könyvklub",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-14:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zaj Könyvklub",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-08-01 14:30:00",
+        "_": "14:30-15:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "BABICSKA KVÍZ A FEKETE ZAJON",
+      "stage": "Babicska Rekreációs Központ",
+      "when": {
+        "sort": "2026-08-01 15:30:00",
+        "_": "15:30-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Malter Filmfeszt x Fekete Zaj – alternatív rövidfilmek és alkotói beszélgetések",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-08-01 10:00:00",
+        "_": "10:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Fekete Játszóház ",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "2097 – disztópikus gémer társas",
+      "stage": "Konferenciaterm",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "3D Nyomtató Műhely",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zajtetkó x Rooklet Ink",
+      "stage": "Konferenciaterem",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Costume Healer - Ruhajavító",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-08-01 09:00:00",
+        "_": "09:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Fonalba szőtt varázslat – Talizmánkészítő mikromakramé workshop",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-08-01 12:00:00",
+        "_": "12:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Dark Horgolás Workshop",
+      "stage": "Terasz",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré rajzolás",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-08-01 11:00:00",
+        "_": "11:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Fekete Karnevál - Goth fairy make up és Corpse Paint",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-08-01 12:00:00",
+        "_": "12:00-14:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré rajzolás",
+      "stage": "Kert",
+      "when": {
+        "sort": "2026-08-01 14:00:00",
+        "_": "14:00-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "A lény Odabent - alkotós, beszélgetős workshop",
+      "stage": "Kiskacsa",
+      "when": {
+        "sort": "2026-08-01 10:00:00",
+        "_": "10:00-11:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zaj Futás",
+      "stage": "ERDŐ",
+      "when": {
+        "sort": "2026-08-01 10:00:00",
+        "_": "10:00-12:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Szaval az erdő",
+      "stage": "ERDŐ",
+      "when": {
+        "sort": "2026-08-01 15:00:00",
+        "_": "15:00-17:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zenés Zajtúra Árpi Cure-ral",
+      "stage": "ERDŐ",
+      "when": {
+        "sort": "2026-08-01 11:00:00",
+        "_": "11:00-17:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "GasztroZaj: A csokoládé és a zene találkozása",
+      "stage": "Borospince",
+      "when": {
+        "sort": "2026-08-01 13:00:00",
+        "_": "13:00-16:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "ZajMasszázs",
+      "stage": "Hotel",
+      "when": {
+        "sort": "2026-08-01 11:30:00",
+        "_": "11:30-17:30"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "ChariTixa",
+      "stage": "Információs pont - Information",
+      "when": {
+        "sort": "2026-08-01 16:00:00",
+        "_": "16:00-18:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zajfoci",
+      "stage": "Mátra Tábor - Mátra Camp",
+      "when": {
+        "sort": "2026-08-01 13:00:00",
+        "_": "13:00-15:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Zajlik",
+      "stage": "ZAJlik",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "No History No Repent - Papp Virág festőművész kiállítása",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Scintillae - Lélekszikrák",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Magyar boszorkánykönyv kiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "darkwood ",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Belső Zaj – Szörnyportrék: Szörnyportré Kiállítás ",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Nem is olyan régen, nem is olyan messze… Fotókiállítás",
+      "stage": "Mitikus belső terek - Mythical Inland",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "ROZZSDA FOTÓSOROZAT ",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "MECHANIDS",
+      "stage": "Mechanikus erdő / Mechanical Forest",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Grandiózus Jómadarak",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    },
+    {
+      "day": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "Sat"
+      },
+      "artist": "Állatvédelmi Tanösvény a Herosz Budapesti Állatotthonnal",
+      "stage": "Civil sétány / NGO GO-Zone",
+      "when": {
+        "sort": "2026-08-01 07:00:00",
+        "_": "07:00-10:00"
+      }
+    }
+  ]
 }
