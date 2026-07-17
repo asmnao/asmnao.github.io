@@ -34,13 +34,14 @@
             }
             #statusline {
                 text-align: center;
-                font-size: xx-small;
+                font-size: small;
                 font-style: italic;
                 color: #aaa;
             }
             body {
                 background: #1b1b1b;
                 color: #ccc;
+                margin: 0px;
             }
             select {
                 background: #1b1b1b;
@@ -160,7 +161,7 @@
                         { data: "stage" },
                         { data: "artist" },
                     ],
-                    language: { search: "?: ", searchPlaceholder: "..." },
+                    language: { search: "", searchPlaceholder: "..."},
                     paging: false,
                     info: true,
                     orderMulti: true,
